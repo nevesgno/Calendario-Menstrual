@@ -25,4 +25,4 @@ Uma aplicação para auxiliar no acompanhamento do ciclo menstrual, permitindo a
 ## 📦 Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/menstrual-calendar.git
+   git clone https://github.com/nevesgno/menstrual-calendar.git
