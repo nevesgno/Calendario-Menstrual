@@ -1,7 +1,4 @@
-
----
-
-# 📌 Modelo 2 – Calendário Menstrual  
+# Calendário Menstrual  
 
 ```markdown
 # 📅 Calendário Menstrual
