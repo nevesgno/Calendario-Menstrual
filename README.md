@@ -2,6 +2,9 @@
 Uma ferramenta web simples, elegante e totalmente responsiva, desenvolvida para **rastreamento e previsão do ciclo menstrual**, **período fértil** e **dia da ovulação**.  
 O design foca na **usabilidade** e em uma **experiência visual agradável**.
 
+![Calendário Menstrual](https://github.com/nevesgno/Calendario-Menstrual/blob/main/Calendario%20menstrual.png?raw=true)
+
+
 ---
 
 ## ✨ Funcionalidades Principais
