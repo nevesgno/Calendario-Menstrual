@@ -43,14 +43,10 @@ O projeto é uma **Single Page Application (SPA)** construída com tecnologias w
 
 ---
 
-## 🧑‍💻 Desenvolvedora
-
-Este projeto foi desenvolvido com carinho por:
-
-**Gabriela Neves**  
-🌐 [GitHub](https://github.com/nevesgno)  
-💼 [LinkedIn](https://www.linkedin.com/in/gabriela-neves-oliveira)
-
----
-
+## 👋 Desenvolvido por **Gabriela Neves** @2025
+📍 Salvador - BA  
 > 💬 *“Acompanhe seu ciclo, registre sintomas e entenda melhor seu corpo.”*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-neves-oliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nevesgno)
+
