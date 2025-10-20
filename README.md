@@ -43,7 +43,7 @@ O projeto é uma **Single Page Application (SPA)** construída com tecnologias w
 
 ---
 
-## 👋 Desenvolvido por **Gabriela Neves** @2025
+## 👋 Desenvolvido por **Gabriela Neves** © 2025
 📍 Salvador - BA  
 > 💬 *“Acompanhe seu ciclo, registre sintomas e entenda melhor seu corpo.”*
 
